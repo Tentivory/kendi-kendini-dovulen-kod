@@ -27,5 +27,6 @@ while True:
     print("--- tekrar ---")
     time.sleep(0.5)
 
-# Saklı mesaj
-_gizli = "U2VjçaW1sZXIgYmVrbGVuaXIgYW1hIGltZGkgZG9uZXIgbWUgb2xkdQ=="  # decode etme
+# Saklı mesaj - açma
+_gizli = "U2XDp2ltbGVyIGJla2xlbmlyIGFtYSDFn2ltZGkgZMO2bmVyIG1pIG9sZHU="
+# print(base64.b64decode(_gizli).decode())
